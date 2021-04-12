@@ -513,3 +513,15 @@ li a:hover {
   font-size: 28px;
 }
 
+.connect-button {
+  padding: 20px;
+  font-size: 1.3rem;
+  border-radius: 10px;
+  transition: 0.3s;
+  color: black;
+  border: none;
+  outline: 0;
+}
+.connect-button:hover {
+  border: 1px solid black;
+}
